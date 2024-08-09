@@ -1,0 +1,3 @@
+git merge <branch that you want to merge with main>
+
+Yeah, this is a good step on how merge branches.
