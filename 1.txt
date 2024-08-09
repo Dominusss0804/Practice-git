@@ -3,3 +3,5 @@ text 1 changed
 //alternate-text branch
 test hypothesis
 
+stepsOnBranch.txt is good, merge them into the main branch
+
